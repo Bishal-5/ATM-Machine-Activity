@@ -34,3 +34,6 @@
     <h2>Acknowledgments</h2>
     <p>Thanks to the Python community for providing valuable resources and inspiration for building this ATM-Machine-Activity project.</p>
 <p>Feel free to contribute to the project by adding additional features, improving code efficiency, or enhancing user interface interactions.</p>
+<h2>Made by</h2>
+<li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
+<li><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">LinkedIN</a></li>
