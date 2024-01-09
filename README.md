@@ -2,7 +2,7 @@
 <p>This Python project simulates the functionality of an ATM machine, allowing users to perform basic banking activities such as money withdrawal, deposit, and balance inquiry. The program prompts users to enter their ATM card number, select the desired transaction, and enter their ATM PIN. It also includes a security feature that limits the user to three incorrect PIN attempts before exiting the program.</p>    
 <img src="https://github.com/Bishal-5/ATM-Machine-Activity/blob/main/Screenshot/1.%20Balance%20Check.jpeg">
 <h2>Features</h2>
-<ul>
+<ol type="I">
         <li><strong>User Authentication</strong>
             <ul>
                 <li>The program begins by prompting the user to enter their ATM card number.</li>
@@ -27,7 +27,7 @@
                 <li>The program includes a security mechanism that allows the user three attempts to enter the correct ATM PIN.</li>
                 <li>If the user fails to provide the correct PIN within three attempts, the program exits for security reasons.</li>
             </ul>
-        </li>
+        </ol>
         <h2>NOTE</h2>
         <p>This project is intended for educational purposes and as a simulation. Do not use real ATM card numbers or PINs for testing.</p>
     <h2>Contributing</h2>
