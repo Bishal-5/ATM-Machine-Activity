@@ -3,14 +3,14 @@
 <img src="https://github.com/Bishal-5/ATM-Machine-Activity/blob/main/Screenshot/1.%20Balance%20Check.jpeg">
 <h2>Features</h2>
 <ol type="I">
-        <li><strong>User Authentication</strong>
+        <li><strong>User Authentication:</strong>
             <ul>
                 <li>The program begins by prompting the user to enter their ATM card number.</li>
                 <li>It verifies the card number's validity (you may use a predefined set of card numbers for simulation purposes).</li>
                 <li>After successful card number validation, the user is prompted to choose a transaction: money withdrawal, deposit, or balance inquiry.</li>
             </ul>  
-        </li>
-        <li><strong>Transaction Handling</strong>
+        </li
+        <li><strong>Transaction Handling:</strong>
             <ul>
                 <li><strong>Money Withdrawal: </strong> Users can specify the amount they want to withdraw from their account.</li>
                 <li><strong>Deposit: </strong> Users can deposit money into their account by entering the desired amount.</li>
@@ -27,14 +27,20 @@
                 <li>The program includes a security mechanism that allows the user three attempts to enter the correct ATM PIN.</li>
                 <li>If the user fails to provide the correct PIN within three attempts, the program exits for security reasons.</li>
             </ul>
+        </li>
         </ol>
-        <h2>NOTE</h2>
-        <p>This project is intended for educational purposes and as a simulation. Do not use real ATM card numbers or PINs for testing.</p>
-    <h2>Contributing</h2>
-    <p>If you'd like to contribute to the development of this ATM-Machine-Activity project, feel free to fork the repository and submit a pull request.</p>
-    <h2>Acknowledgments</h2>
-    <p>Thanks to the Python community for providing valuable resources and inspiration for building this ATM-Machine-Activity project.</p>
+        
+<h2>NOTE</h2>
+<p>This project is intended for educational purposes and as a simulation. Do not use real ATM card numbers or PINs for testing.</p>
+
+<h2>Contributing</h2>
+<p>If you'd like to contribute to the development of this ATM-Machine-Activity project, feel free to fork the repository and submit a pull request.</p>
+
+<h2>Acknowledgments</h2>
+<p>Thanks to the Python community for providing valuable resources and inspiration for building this ATM-Machine-Activity project.</p>
+
 <p>Feel free to contribute to the project by adding additional features, improving code efficiency, or enhancing user interface interactions.</p>
+
 <h2>Made by</h2>
 <li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
 <li><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">LinkedIN</a></li>
