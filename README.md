@@ -7,9 +7,10 @@
             <ul>
                 <li>The program begins by prompting the user to enter their ATM card number.</li>
                 <li>It verifies the card number's validity (you may use a predefined set of card numbers for simulation purposes).</li>
-                <li>After successful card number validation, the user is prompted to choose a transaction: money withdrawal, deposit, or balance inquiry.</li>
+                <li>After successful card number validation, the user is prompted to choose a transaction: money withdrawal, deposit, or 
+                     balance inquiry.</li>
             </ul>  
-        </li
+        </li>
         <li><strong>Transaction Handling:</strong>
             <ul>
                 <li><strong>Money Withdrawal: </strong> Users can specify the amount they want to withdraw from their account.</li>
